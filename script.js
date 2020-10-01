@@ -44,7 +44,7 @@ var quizController = (function () {
         score: 0
     };
 
-    var adminFullName = ['john', 'smith'];
+    var adminFullName = ['admin', 'admin'];
 
     var personLocalStorage = {
         setPersonData: function (newPersonData) {
